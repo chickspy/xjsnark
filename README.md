@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # xJsnark
 
 This is a high-level framework for developing applications for zk-SNARKs. [xJsnark](https://akosba.github.io/papers/xjsnark.pdf) aims at bridging the gap between high-level programming and performance. It provides a collection of front end features that enables programmers to write zk-SNARK circuits in a [higher level way](https://github.com/akosba/xjsnark/blob/master/doc/code_previews/README.md) than before (especially for cryptographic applications).  On the other side, xjsnark's back end uses several techniques to reduce the cost of the output circuits, which could finally get to the cost of manually-developed circuits for some applications.
@@ -112,3 +113,6 @@ To apply any updates and add new examples automatically: apply VCS-> Update Proj
 ## Disclaimer
 
 This is an early release that could contain issues and inconsistencies. The project is still in dev mode. At this point, I am still optimizing the back end, and adding features and refinements beyond what was in the conference version of the paper, and consequently a lot of integration and testing are still ongoing. 
+=======
+# xjsnark
+>>>>>>> 3f25fd4d148e2f29efc9d10b4493c69e3f262ff7

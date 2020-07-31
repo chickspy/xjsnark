@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69c28445-40fb-4dd0-bf62-fde93f5f1c75" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" afterPath="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="xjsnark.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -24,7 +25,7 @@
       <list>
         <TabState>
           <option name="title" value="Console" />
-          <option name="history" value="kaurqQAABAAHKP+HCe/UA0UUpF8iGcwKGtsAABVUZW1wTW9kZWxfNTQ3MTI2NzMwNTIXSMUU8dBwBkABkH1RGDzj9mcAAC5UZW1wTW9kdWxlYzUxNGYxZDAtNzAwNi00MDAxLTkwN2QtNTExODNjZTNmNjY3/////6urq6taWlpaAALOq1GVJepPIpuSEDuVyowMAAAXamV0YnJhaW5zLm1wcy5sYW5nLmNvcmUAAQAAARA5bqqkAAANSU5hbWVkQ29uY2VwdAASAAEAAAEQOW7AQQAABG5hbWUAAAAA3hrYbW5QSgKzBtTRf2TDdQAAGmpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlAAMV+zQFH3JaLAAAC0NvbnNvbGVSb290ABIAAAAAAAIV+zQFH3JbrwAAB2hpc3RvcnkAFfs0BR9yW7EAAA1jb21tYW5kSG9sZGVyAATicWCstEhLAAANQ29tbWFuZEhvbGRlcgASAAAAAAAACoNfKMGqAr4AAAdIaXN0b3J5ABIAAAAAAAClpaWlAATeGthtblBKArMG1NF/ZMN1AQAAAAXyZpHSDe9MBq7GLLkMSvCkAAAdamV0YnJhaW5zLm1wcy5jb25zb2xlLnNjcmlwdHOl5N5TRqNE2qqzaP3xw07QAAAhamV0YnJhaW5zLm1wcy5jb25zb2xlLmlkZUNvbW1hbmRzmVpzlH92S4upKcU0SHCBBgAAJmpldGJyYWlucy5tcHMuY29uc29sZS5pbnRlcm5hbENvbW1hbmRzAAAAARdI+8Jd0l2kSDqLGXCSjhti1wAAJGpldGJyYWlucy5tcHMuZGV2a2l0LmdlbmVyYWwtcHVycG9zZQAAAAQHKDWbHSt3xEbfm/KyXL6jIlQAACRqZXRicmFpbnMubXBzLmNvbnNvbGUuYmFzZS5zdHJ1Y3R1cmVw/////wco5xLzU1w8QoitzofJVqUv+wAAJ2pldGJyYWlucy5tcHMuY29uc29sZS5zY3JpcHRzLnN0cnVjdHVyZXD/////BygTWmBvA3ZMXJq4QDDwUaBiAAAramV0YnJhaW5zLm1wcy5jb25zb2xlLmlkZUNvbW1hbmRzLnN0cnVjdHVyZXD/////ByiQRFIGqXNMHbdgMOXHe3SXAAAwamV0YnJhaW5zLm1wcy5jb25zb2xlLmludGVybmFsQ29tbWFuZHMuc3RydWN0dXJlcP////+6urq6AAAAAQABGFF5ioJVVHHU//97AAAAAAAAAAAAAgADGFF5ioJVVHHVAAB7AAAAAAAAAAAAAH0AAhhReYqCVVRx1gABewABAAABAAAACQAAAAAAAAAAfX0=" />
+          <option name="history" value="kaurqQAABAAHKACmQOUia0nonMK50nRuJ5YAABdUZW1wTW9kZWxfMjg3MTM1MzUzNzk0MxdIykN2GsDPS7On/2GwHq3V5AAALlRlbXBNb2R1bGVjYTQzNzYxYS1jMGNmLTRiYjMtYTdmZi02MWIwMWVhZGQ1ZTT/////q6urq1paWloAAs6rUZUl6k8im5IQO5XKjAwAABdqZXRicmFpbnMubXBzLmxhbmcuY29yZQABAAABEDluqqQAAA1JTmFtZWRDb25jZXB0ABIAAQAAARA5bsBBAAAEbmFtZQAAAADeGthtblBKArMG1NF/ZMN1AAAaamV0YnJhaW5zLm1wcy5jb25zb2xlLmJhc2UAAxX7NAUfclosAAALQ29uc29sZVJvb3QAEgAAAAAAAhX7NAUfcluvAAAHaGlzdG9yeQAV+zQFH3JbsQAADWNvbW1hbmRIb2xkZXIABOJxYKy0SEsAAA1Db21tYW5kSG9sZGVyABIAAAAAAAAKg18owaoCvgAAB0hpc3RvcnkAEgAAAAAAAKWlpaUABN4a2G1uUEoCswbU0X9kw3UBAAAABfJmkdIN70wGrsYsuQxK8KQAAB1qZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0c6Xk3lNGo0TaqrNo/fHDTtAAACFqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHOZWnOUf3ZLi6kpxTRIcIEGAAAmamV0YnJhaW5zLm1wcy5jb25zb2xlLmludGVybmFsQ29tbWFuZHMAAAABF0j7wl3SXaRIOosZcJKOG2LXAAAkamV0YnJhaW5zLm1wcy5kZXZraXQuZ2VuZXJhbC1wdXJwb3NlAAAABAcoNZsdK3fERt+b8rJcvqMiVAAAJGpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlLnN0cnVjdHVyZXD/////ByjnEvNTXDxCiK3Oh8lWpS/7AAAnamV0YnJhaW5zLm1wcy5jb25zb2xlLnNjcmlwdHMuc3RydWN0dXJlcP////8HKBNaYG8DdkxcmrhAMPBRoGIAACtqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHMuc3RydWN0dXJlcP////8HKJBEUgapc0wdt2Aw5cd7dJcAADBqZXRicmFpbnMubXBzLmNvbnNvbGUuaW50ZXJuYWxDb21tYW5kcy5zdHJ1Y3R1cmVw/////7q6uroAAAABAAEYUN0ob0ZXxSD//3sAAAAAAAAAAAACAAMYUN0ob0ZXxSEAAHsAAAAAAAAAAAAAfQACGFDdKG9GV8UiAAF7AAEAAAEAAAAJAAAAAAAAAAB9fQ==" />
         </TabState>
       </list>
     </option>
@@ -65,7 +66,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -76,34 +77,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ABEKeyKnowledge" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ABEKeyKnowledge" pinned="false" current-in-tab="true">
         <entry file="mps://node://xjsnark.sandbox/xjsnark.ABEKeyKnowledge/ABEKeyKnowledge">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="7072">
+              <memento viewPositionX="0" viewPositionY="6952">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="79" />
-                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="671" />
+                    <property name="caretXRelative" value="40" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881704001815" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
                 <errorMarkers>
                   <errorMarker text="" propertyCell="true" cellId="property_text" cellNumber="0" isInList="false">
-                    <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673285310" />
+                    <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673278735" />
                   </errorMarker>
                   <errorMarker text="" propertyCell="true" cellId="property_text" cellNumber="0" isInList="false">
-                    <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673278735" />
+                    <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673285310" />
                   </errorMarker>
                 </errorMarkers>
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -134,7 +135,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -165,7 +166,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -180,7 +181,7 @@
         <entry file="mps://node://xjsnark.sandbox/xjsnark.zerocash/PourCircuit">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="3557">
+              <memento viewPositionX="0" viewPositionY="3467">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="selectionStart" value="0" />
@@ -198,38 +199,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PourCircuitSampleIO" pinned="false" current-in-tab="true">
-        <entry file="mps://node://xjsnark.sandbox/xjsnark.zerocash/PourCircuitSampleIO">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="3360">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="225" />
-                    <property name="caretXRelative" value="12" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_fao2ea_a0" cellNumber="0" isInList="false">
-                      <node node_reference="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <collapsed />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -260,7 +230,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -291,7 +261,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -322,7 +292,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -353,7 +323,7 @@
                 <transactionalProperties />
                 <collapsed />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -464,33 +434,12 @@
     </navigator>
     <panes>
       <pane id="FileSystem" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xjsnark" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash) in IdeaFile{file:///home/cs/桌面/MpsProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/zerocash.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -519,60 +468,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xjsnark" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:92cac21e-3574-4519-8e5f-9bfe937716b9(xjsnark.sandbox) in IdeaFile{file:///home/cs/桌面/MpsProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/sandbox.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xjsnark" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash) in IdeaFile{file:///home/cs/桌面/MpsProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/zerocash.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SampleTestGenerator" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/xjsnark/sandbox/xjsnark.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xjsnark" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:44cdcb09-c265-408c-9c16-482f1c44d911(xjsnark.test) in IdeaFile{file:///home/cs/桌面/MpsProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/test.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -604,13 +499,16 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:005cc8f3-7fb6-4201-bd47-d830735988ad(xjsnark.ecKeyKnowledge) in IdeaFile{file:///home/cs/桌面/MpsProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/ecKeyKnowledge.mps}" />
+              <option name="myItemId" value="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge) in IdeaFile{file:///home/cs/桌面/MpsProjects/xjsnark/languages/xjsnark/sandbox/models/xjsnark/ABEKeyKnowledge.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7020170997885566841" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="Favorites" />
     </panes>
   </component>
   <component name="RunManager" selected="Java Application.Class ABEKeyKnowledge">
@@ -753,39 +651,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20916443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991913" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20916443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -808,6 +706,485 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.arrayRamExamples/BinarySearch">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.notes/DifferentOperators">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.sha256/SHA256">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.ABEKeyKnowledge/FieldDefTable">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.ABEKeyKnowledge/ABEKeyKnowledge">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="7072">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="79" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881704001815" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_text" cellNumber="0" isInList="false">
+                <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673278735" />
+              </errorMarker>
+              <errorMarker text="" propertyCell="true" cellId="property_text" cellNumber="0" isInList="false">
+                <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673285310" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.ecKeyKnowledge/EC_KeyKnowledge">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.rsakeyKnowledge/RSA_KeyKnowledge">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.zerocash/PourCircuit">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.zerocash/PourCircuitSampleIO">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="3360">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="225" />
+                <property name="caretXRelative" value="12" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_fao2ea_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.aes/AES128">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.arrayRamExamples/BinarySearch">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.notes/DifferentOperators">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.sha256/SHA256">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.ABEKeyKnowledge/FieldDefTable">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.ABEKeyKnowledge/ABEKeyKnowledge">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_text" cellNumber="0" isInList="false">
+                <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673278735" />
+              </errorMarker>
+              <errorMarker text="" propertyCell="true" cellId="property_text" cellNumber="0" isInList="false">
+                <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673285310" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.ecKeyKnowledge/EC_KeyKnowledge">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.rsakeyKnowledge/RSA_KeyKnowledge">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.zerocash/PourCircuit">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.zerocash/PourCircuitSampleIO">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="3360">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="225" />
+                <property name="caretXRelative" value="12" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_fao2ea_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.aes/AES128">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.arrayRamExamples/BinarySearch">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.notes/DifferentOperators">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://xjsnark.sandbox/xjsnark.sha256/SHA256">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
     <entry file="mps://node://xjsnark.sandbox/xjsnark.ABEKeyKnowledge/FieldDefTable">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1145,30 +1522,30 @@
     <entry file="mps://node://xjsnark.sandbox/xjsnark.ABEKeyKnowledge/ABEKeyKnowledge">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="7072">
+          <memento viewPositionX="0" viewPositionY="6952">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="671" />
+                <property name="caretXRelative" value="40" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881704001815" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <errorMarkers>
               <errorMarker text="" propertyCell="true" cellId="property_text" cellNumber="0" isInList="false">
-                <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673285310" />
+                <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673278735" />
               </errorMarker>
               <errorMarker text="" propertyCell="true" cellId="property_text" cellNumber="0" isInList="false">
-                <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673278735" />
+                <node node_reference="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/5870875881673285310" />
               </errorMarker>
             </errorMarkers>
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1286,7 +1663,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1315,7 +1692,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1344,7 +1721,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1357,7 +1734,7 @@
     <entry file="mps://node://xjsnark.sandbox/xjsnark.zerocash/PourCircuit">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="3557">
+          <memento viewPositionX="0" viewPositionY="3467">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="selectionStart" value="0" />
@@ -1375,7 +1752,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1404,7 +1781,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1433,7 +1810,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1462,7 +1839,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1491,7 +1868,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:89762c63-2cf2-4ff5-a25b-716ced429771(xjsnark.zerocash)/8332061810154869722" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fac02eee-7567-4573-8e72-0d0858d7f30f(xjsnark.ABEKeyKnowledge)/1978332956509380808" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
